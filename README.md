@@ -1,3 +1,9 @@
+## 🚀 Cómo Empezar y Ejecutar
+
+Para obtener instrucciones detalladas sobre cómo configurar y ejecutar el proyecto, por favor, haz clic aquí:
+
+**[Guía de Ejecución (run.md)](run.md)**
+
 ## Breve Descripción
 
 Para resolver este challenge decidí usar una arquitectura hexagonal ya que permite desacoplar completamente la
