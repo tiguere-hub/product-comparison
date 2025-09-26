@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop Ultrabook Pro",
+    "description": "Laptop ligera y potente con procesador de última generación.",
+    "imageUrl": "https://example.com/images/laptop_pro.jpg",
+    "price": 1200.50,
+    "rating": 4.8,
+    "attributes": {
+      "Pantalla": "14 pulgadas",
+      "RAM": "16 GB",
+      "Almacenamiento": "512 GB SSD"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Teléfono Inteligente X",
+    "description": "Cámara de alta resolución y batería de larga duración.",
+    "imageUrl": "https://example.com/images/smartphone_x.jpg",
+    "price": 850.00,
+    "rating": 4.5,
+    "attributes": {
+      "Cámara": "48MP",
+      "Batería": "4500mAh",
+      "SO": "Android 13"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Auriculares Inalámbricos",
+    "description": "Cancelación de ruido activa y sonido de alta fidelidad.",
+    "imageUrl": "https://example.com/images/auriculares_in.jpg",
+    "price": 150.75,
+    "rating": 4.7,
+    "attributes": {
+      "Conectividad": "Bluetooth 5.2",
+      "Autonomía": "24 horas",
+      "Peso": "250g"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Smartwatch S1",
+    "description": "Monitor de actividad física y notificaciones en tiempo real.",
+    "imageUrl": "https://example.com/images/smartwatch_s1.jpg",
+    "price": 299.99,
+    "rating": 4.2,
+    "attributes": {
+      "Resistencia": "Agua IP68",
+      "Sensores": "Ritmo cardiaco, SpO2",
+      "Pantalla": "1.5 pulgadas"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Tableta Gráfica Digital",
+    "description": "Ideal para diseñadores gráficos y artistas digitales.",
+    "imageUrl": "https://example.com/images/tableta_grafica.jpg",
+    "price": 450.00,
+    "rating": 4.9,
+    "attributes": {
+      "Área Activa": "10x6 pulgadas",
+      "Niveles de Presión": "8192",
+      "Compatibilidad": "Windows, Mac"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Teclado Mecánico RGB",
+    "description": "Teclas retroiluminadas y personalizables con switches Cherry MX.",
+    "imageUrl": "https://example.com/images/teclado_rgb.jpg",
+    "price": 99.95,
+    "rating": 4.6,
+    "attributes": {
+      "Tipo de Switch": "Cherry MX Red",
+      "Iluminación": "RGB por tecla",
+      "Conexión": "USB-C"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Cámara Fotográfica DSLR",
+    "description": "Sensor de imagen APS-C y grabación de video 4K.",
+    "imageUrl": "https://example.com/images/camara_dslr.jpg",
+    "price": 750.00,
+    "rating": 4.4,
+    "attributes": {
+      "Megapíxeles": "24.2 MP",
+      "Video": "4K UHD",
+      "Lente": "Kit 18-55mm"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Disco Duro Externo 2TB",
+    "description": "Almacenamiento masivo para backups y archivos grandes.",
+    "imageUrl": "https://example.com/images/disco_externo.jpg",
+    "price": 85.00,
+    "rating": 4.3,
+    "attributes": {
+      "Capacidad": "2 TB",
+      "Interfaz": "USB 3.0",
+      "Velocidad": "5400 RPM"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Impresora Multifuncional",
+    "description": "Impresión, escáner y copia en un solo dispositivo.",
+    "imageUrl": "https://example.com/images/impresora_multi.jpg",
+    "price": 199.99,
+    "rating": 4.1,
+    "attributes": {
+      "Funciones": "Impresión, Escáner, Copia",
+      "Conectividad": "Wi-Fi",
+      "Resolución": "4800 x 1200 dpi"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Monitor Curvo 27\"",
+    "description": "Experiencia inmersiva para juegos y trabajo.",
+    "imageUrl": "https://example.com/images/monitor_curvo.jpg",
+    "price": 250.00,
+    "rating": 4.7,
+    "attributes": {
+      "Tamaño": "27 pulgadas",
+      "Resolución": "1920x1080",
+      "Tasa de Refresco": "144 Hz"
+    }
+  }
+]
