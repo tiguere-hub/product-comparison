@@ -26,6 +26,9 @@ En un escenario real hubiera usado OAuth2 con jwt.
 He utilizado Spring validation para validar los datos de entrada a la API. Además, he implementado un @RestControllerAdvice para manejar 
 las excepciones de manera centralizada
 
+## Diagrama:
+![Diagrama](Diagrama.png)
+
 ## Endpoint Principal:
     Post localhost:8080/v1/products/compare
 
@@ -44,5 +47,3 @@ las excepciones de manera centralizada
 - Spring Security
 - Mockito
 - Docker
-
-  ![Diagrama](Diagrama.png)
