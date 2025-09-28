@@ -1,3 +1,9 @@
+## 🚀 Cómo Empezar y Ejecutar
+
+Para obtener instrucciones detalladas sobre cómo configurar y ejecutar el proyecto, por favor, haz clic aquí:
+
+**[Guía de Ejecución (run.md)](run.md)**
+
 ## Breve Descripción
 
 Para resolver este challenge decidí usar una arquitectura hexagonal ya que permite desacoplar completamente la
@@ -19,6 +25,9 @@ En un escenario real hubiera usado OAuth2 con jwt.
 
 He utilizado Spring validation para validar los datos de entrada a la API. Además, he implementado un @RestControllerAdvice para manejar 
 las excepciones de manera centralizada
+
+## Diagrama:
+![Diagrama](Diagrama.png)
 
 ## Endpoint Principal:
     Post localhost:8080/v1/products/compare
