@@ -11,7 +11,6 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                // Clonar el repositorio desde GitHub
                 git url: 'https://github.com/tiguere-hub/product-comparison.git', branch: 'main'
             }
         }

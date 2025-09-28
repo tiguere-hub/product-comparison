@@ -12,5 +12,5 @@ RUN chmod +x gradlew && ./gradlew clean build --no-daemon -s
 FROM openjdk:21-slim-bullseye
 WORKDIR /app
 COPY --from=build /app/build/libs/*.jar app.jar
-EXPOSE 8080
+EXPOSE 8081
 ENTRYPOINT ["java", "-jar", "app.jar"]

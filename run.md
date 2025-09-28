@@ -40,5 +40,5 @@ Generar la imagen <br>
 
 ### Paso 3
 Correr la imagen
-+ docker run -p 8080:8080 product-comparisons
++ docker run -p 8081:8081 product-comparisons
 

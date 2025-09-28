@@ -30,7 +30,7 @@ las excepciones de manera centralizada
 ![Diagrama](Diagrama.png)
 
 ## Endpoint Principal:
-    Post localhost:8080/v1/products/compare
+    Post localhost:8081/v1/products/compare
 
 #### Body Example
     { "ids": ["5", "6", "7", "8"] }
